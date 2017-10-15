@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fly App</string>
+
+    <string name="arrival">Arrival</string>
+    <string name="departure">Departure</string>
+    <string name="flightName">Flight Name</string>
+    <string name="landingTime">Landing Time</string>
+    <string name="departureTime">Departure Time</string>
+    <string name="gate">Gate</string>
+    <string name="nullGate">the gate is not existed so far</string>
+    <string name="gateAvailability">not available</string>
+    <string name="terminal">Terminal</string>
+    <string name="flightClass">Class</string>
+    <string name="flightRoute">Route</string>
+    <string name="airlines">Airlines</string>
+    <string name="id">ID</string>
+    <string name="flightDirection">The Flight Direction is</string>
+    <string name="ClickToKnow">Click to Know</string>
+    <string name="iata">Iata</string>
+    <string name="county">Country</string>
+    <string name="city">City</string>
+    <string name="flightPlan">The Plan of The Flight</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="done">Done</string>
+
+
+</resources>
